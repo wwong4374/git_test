@@ -1,1 +1,1 @@
-This is wwong4374's first git project! 
+Hello! This is wwong4374's first git project! 
